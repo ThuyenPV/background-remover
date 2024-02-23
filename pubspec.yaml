@@ -7,7 +7,7 @@ View/report issues: https://github.com/Antoinegtir/background-remover/issues
 contributing: https://github.com/Antoinegtir/background-remover/blob/main/CONTRIBUTING.md
 
 environment:
-  sdk: '>=3.0.6 <4.0.0'
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
